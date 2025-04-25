@@ -1,0 +1,4 @@
+# data/documents/sample_docs.txt
+Doc1: AI systems are evolving rapidly, with Modular RAG being a key innovation.
+Doc2: Retrieval-Augmented Generation combines retrieval and generation for better answers.
+Doc3: Scalable AI requires modular architectures for flexibility.
