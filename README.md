@@ -23,7 +23,7 @@ modular_rag/
 
 # Modular RAG
 A scalable implementation of Retrieval-Augmented Generation (RAG) based on modular architecture.
-![image](https://github.com/user-attachments/assets/13a00264-ccfc-4efe-93bf-4cd01076a7fe){ width=50% }
+<img src="https://github.com/user-attachments/assets/13a00264-ccfc-4efe-93bf-4cd01076a7fe" width="50%" />
 
 
 
