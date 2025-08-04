@@ -1,5 +1,4 @@
 # Project Structure
-I refered this article: https://medium.com/aingineer/a-comprehensive-guide-to-implementing-modular-rag-for-scalable-ai-systems-3fb47c46dc8e
 
 
 ```
